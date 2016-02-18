@@ -13,6 +13,11 @@ table
 	cellspacing: 0 px;
 }
 
+th, td 
+{
+    border-bottom: 1px solid #ddd;
+}
+
 td 
 {
 	border: 5px solid #0000ff;
@@ -21,6 +26,7 @@ td
 	background-color:#00ff46; 
 }
 
-th {
+th 
+{
     height: 50px;
 }
