@@ -10,12 +10,12 @@ table
 	margin-right:auto;
 	text-align:left;
 	border-collapse: collapse;
-	cellspacing: 4 px;
+	cellspacing: 8 px;
 }
 
 th, td 
 {
-    border-bottom: 5px solid #ddd;
+    border-bottom: 8px solid #ddd;
 }
 
 td 
