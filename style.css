@@ -10,7 +10,7 @@ table
 	margin-right:auto;
 	text-align:left;
 	border-collapse: collapse;
-	cellspacing: 0 px;
+	cellspacing: 4 px;
 }
 
 th, td 
