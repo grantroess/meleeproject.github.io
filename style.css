@@ -2,7 +2,9 @@ body
 { 
   background-color: #a94442;
 }
-
+#body {
+	background: #a94442;
+}
 table 
 {
 	width: 80%;
