@@ -40,3 +40,11 @@ th
 {
     height: 50px;
 }
+
+#credits
+{
+	font-family:Helvetica;
+	font-size:15;
+	text-align:right;
+	color:#fdf3ec;
+}
